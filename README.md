@@ -1,2 +1,2 @@
 # TicTacToe
-A Tic-Tac-Toe simulator made by Python 3.
+The program initializes a class which greates the Tic-Tac-Toe board and checks for winning scenarios after each move. The game prompts the user for a row and column space in which to write down an "x" or "o" of the current player. The "x" or "o" is then left in an open space where appropriate. Whichever player gets all three of their "x's" or "o's" all in the same horizontal, vertical, or diagonal line first wins the game.
