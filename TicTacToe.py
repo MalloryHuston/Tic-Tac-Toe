@@ -1,3 +1,7 @@
+# Author: Mallory Huston
+# Date: 11/23/2019
+# Description: Defines a class TicTacToe that includes a game board and a game state.
+
 class TicTacToe:
     """
     A game of TicTacToe includes a board with nine spaces and its current win state.
