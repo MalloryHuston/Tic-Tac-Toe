@@ -11,4 +11,4 @@ It's not required, but you'll probably find it useful for testing and debugging 
 
 Whether you think of the array indices as being [row][column] or [column][row] doesn't matter as long as you're consistent.
 
-Your file must be named: <b>```TicTacToe.py```</b>
+Your file must be named: ```TicTacToe.py```
